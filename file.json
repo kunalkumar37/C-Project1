@@ -1,0 +1,11 @@
+{
+    "name":"Kunal",
+    "class":"Masters in maths with comp sc.",
+    "roll no":3526,
+    "address":{
+        "city":"Delhi",
+        "house no":"432-B",
+        "locality":"Omaxe City"
+    }
+
+}
